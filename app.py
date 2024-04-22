@@ -25,8 +25,8 @@ os.path.dirname(os.path.abspath(__file__))
 
 @app.route('/')
 def home():
-    """Return a friendly HTTP greeting."""
-    return 'Image Classification API is running'
+    """Render the landing page HTML template."""
+    return render_template('index.html')
 
 @app.route('/Input')
 def get_file(path='input.jpg'):
