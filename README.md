@@ -41,16 +41,4 @@ Drag your image in the drop zone or upload it and click **Run Prediction**, whic
 ![classification-result page](./screenshots/3.png?raw=true)
 
 Your Custom Image classification API is ready!
-
-## Deploy on AWS with Docker :rocket:
-Please Refer [AWS docker setup guide][gh-aws-docker] to deploy this application on AWS EC2 instance with docker.
-
-##  Support :sparkles:
-If you get stuck, we’re here to help. The following are the best ways to get assistance working through your issue:
-
-* Use our [Github Issue Tracker][gh-issues] for reporting bugs or requesting features.
-Contribution are the best way to keep this repo amazing :muscle:
-* If you want to contribute please refer [Contributor's Guide][gh-contrib] for how to contribute in a helpful and collaborative way :innocent:
-
-## Author :sunglasses:
 ### Asma saduf
